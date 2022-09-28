@@ -1,6 +1,7 @@
 public class D {
-  String name="jackz";
-    public static void main(String[] args) {
+    static String name = "jackz";
 
+    public static void main(String[] args) {
+      System.out.println(name);
     }
 }
